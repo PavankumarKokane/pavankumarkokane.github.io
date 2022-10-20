@@ -1,0 +1,7 @@
+Disallow: /category/uncategorized/
+Disallow: /wp-content/themes/pavankumar/resume.pdf
+Disallow: /author/Pavankumar/
+Disallow: /author/Pavankumar/feed/
+Disallow: /wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.5
+Disallow: /hello-world/
+Disallow: /2022/02/26/hello-world/
